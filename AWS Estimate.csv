@@ -1,0 +1,14 @@
+﻿Estimate summary
+Upfront cost,Monthly cost,Total 12 months cost,Currency
+0,327.01,3924.12,USD
+,,* Includes upfront cost
+
+
+Detailed Estimate
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Status,Configuration summary
+My Estimate,Australia (Perth),,Amazon EC2 ,0,327.01,3924.12,USD,,"Tenancy (Shared Instances), Operating system (Windows Server), Workload (Consistent, Number of instances: 1), Advance EC2 instance (m5.xlarge), Pricing strategy (Compute Savings Plans 3yr  No Upfront), EBS Storage amount (256 GB), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
